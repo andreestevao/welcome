@@ -12,8 +12,6 @@ html {
 
 header {
     width: 100%;
-    padding-bottom: 20px;
-    margin-bottom: 10px;
 }
 
 h1 {
@@ -28,11 +26,12 @@ hr {
     opacity: 1;
     padding: 3px;
     max-width: 100px;
+    margin-bottom: 10px;
 }
 
 
 .spacer {
-    height: 10rem;    
+    height: 1rem;    
 }
 
 .btn {
